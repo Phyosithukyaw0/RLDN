@@ -1,4 +1,5 @@
 #!/bin/bash
+<--RLDN(reverse lookup dns busteforce)-->
 read -p "Enter your domain website:: " domain
 red='\033[0;21m'
 blue='\033[0;34m'
